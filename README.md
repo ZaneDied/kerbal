@@ -1,4 +1,4 @@
-# kerbal
+# Bimba Flamingo
 
 component
 
