@@ -174,7 +174,7 @@ function love.update(dt)
         if isColliding then
             local tx = -ny
             local ty = nx
-            git push origin main --force
+
             local vn = p.vx * nx + p.vy * ny
             local vt = p.vx * tx + p.vy * ty
 
