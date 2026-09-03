@@ -318,3 +318,4 @@ function drawSharpCone()
     love.graphics.setColor(0.85, 0.85, 0.9)
     love.graphics.polygon("fill", -14, -10, -14, 10, 16, 0)
 end
+
