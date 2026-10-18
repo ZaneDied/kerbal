@@ -23,8 +23,7 @@ local CATALOG = {
     { id = "rtg_battery", category = "utility", name = "RTG Generator", height = 14, width = 12, cost = 900 },
 
     -- SCIENCE INSTRUMENTS 
-    { id = "robot_arm",   category = "science", name = "Sample Arm",    height = 16, w
-    idth = 12, cost = 600 },
+    { id = "robot_arm",   category = "science", name = "Sample Arm",    height = 16, width = 12, cost = 600 },
     { id = "comm_dish",   category = "science", name = "Comms Dish",    height = 18, width = 16, cost = 450 }
 }
 
