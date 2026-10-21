@@ -4,7 +4,7 @@ local hangar = require("hangar")
 local world = require("world")
 
 function love.load()
-    love.window.setTitle("Pixel Rocket: World & Moon Explorer")
+    love.window.setTitle("BIMBA")
     love.window.setMode(1280, 720, { resizable = true, vsync = true })
     love.graphics.setDefaultFilter("nearest", "nearest")
     
